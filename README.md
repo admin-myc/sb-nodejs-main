@@ -9,7 +9,7 @@ PORT：服务器可使用的端口，建议留空随机生成
 DOMAIN：已解析在CF的域名
 
 ```
-wget -N https://raw.githubusercontent.com/yonggekkk/sb-nodejs/main/whm.sh && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=已解析在CF的域名 bash whm.sh
+wget -N https://raw.githubusercontent.com/adnin-myc/sb-nodejs/main/whm.sh && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=已解析在CF的域名 bash whm.sh
 ```
 
 建议使用外部节点保活方式，可使用workers_keep文件进行保活
