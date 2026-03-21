@@ -1,4 +1,4 @@
-## 一、Webhostmost、freecloud.ltd在Node.js环境搭建vless-ws-tls脚本
+## 一、Webhostmost、freecloud.ltd在index.js环境搭建vless-ws-tls脚本
 
 目前新注册的Webhostmost账号的开发者工具（Development Tools）有Terminal，说明可以进入SSH，然后输入以下一键脚本，这样就不用上传文件了
 
